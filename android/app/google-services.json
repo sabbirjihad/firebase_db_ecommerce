@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196867475317",
+    "project_id": "fir-bitm12-445ab",
+    "storage_bucket": "fir-bitm12-445ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196867475317:android:2c2bc2edbd4f2e4821353c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_bitm12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196867475317-9d849r6rsu1nie704dbjs8mp7fsq6hhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_bitm12",
+            "certificate_hash": "18392fe00e13d1fed65b10805b55aa35ff941007"
+          }
+        },
+        {
+          "client_id": "196867475317-jo81n1j1h8rjq2im7ahoupc21eh9dvkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4011Cci3oMQdklkqr1TVPT_m9q2QlhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196867475317-jo81n1j1h8rjq2im7ahoupc21eh9dvkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
